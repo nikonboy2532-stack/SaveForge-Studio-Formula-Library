@@ -1,6 +1,7 @@
 ; BLJM60558
 ; Lightning Returns: Final Fantasy XIII
 ; From Savedata.jp & bokosukagames
+; https://web.save-editor.com/cache/bbs_savedata_ps3/7295.html
 
 :BLJM60558-*\KEY.DAT
 [Read Encryption KEY.DAT (Required)]
@@ -347,8 +348,8 @@ DECRYPT FFXIII(3, [key])
 2000136A 00000003
 2000136E 97FF68C0
 
-[Medicine of Heroes]
-6865726F 00000000
+;[Medicine of Heroes]
+;6865726F 00000000
 
 [Location Item1 Elixir 65535]
 2001C464 69745F00
@@ -552,7 +553,7 @@ DECRYPT FFXIII(3, [key])
 10025EDA 0000003C
 
 [Zarutisu Omega]
-( 30 animals punitive already )
+; ( 30 animals punitive already )
 10025EFB 0000001E
 
 [Zomok Omega]
@@ -570,18 +571,18 @@ DECRYPT FFXIII(3, [key])
 ; room after the events of third test of the first
 
 [Cyclops Omega]
-( 30 animals punitive already )
+; ( 30 animals punitive already )
 10025F48 0000001E
 
 [Desert Sahagin Omega]
 10025FB6 00000050
 
 [Grand Prix emissions Omega]
-( 60 animals punitive already )
+; ( 60 animals punitive already )
 10025FCC 0000003C
 
 [Yuijinshan Omega]
-( 30 animals punitive already )
+; ( 30 animals punitive already )
 10025FD7 0000001E
 
 [Group:\]
